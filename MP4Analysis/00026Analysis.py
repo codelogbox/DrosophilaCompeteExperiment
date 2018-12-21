@@ -1,1 +1,1 @@
-import cs2 as cv 
+import cs2 as cv
